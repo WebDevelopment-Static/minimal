@@ -2,112 +2,20 @@
 layout: default
 ---
 
-# Bittrex, is being accused of running a ponzi scheme. 
-The cryptocurrency exchange has hired former US Homland Security Employees soon after the company got accused in 2017. In 2018 the company has continue to use investors money in violatation of United States Federal Laws and a class action is in progress and soon to be entered in the New York Court system. 
+# The L train latest News, is nothing other than a political stance from Governor Andrew M. Cuomo, who is planning to possible run for president, or he wishes. 
+
+## We have information, Cuomo lied to the press and public with his announcement yesterday, January 3rd 2019, a new plan was in place to fix the tunnels on the L train line, without shutting the system. Furthermore, his plan resulted in the forceful resignation of the head of construction with 31 years at MTA of impecable track record, who refused to jeopardize commuters safety for a corrupt politician. We have evidence Cuomo, never had another license Civil Structural Engineer, to look at the construction plans and structural needs and restrains of the project. Instead Cuomo, rather took the word of a Civil Engineer, who never visited nor saw the structural plans of the L Line Project. "We know what got reported yesterday, by Andrew Cuomo, is not physically workable or possible" said a Civil Structural Engineer, who has worked in the project, and will remain anonymous. This is nothing other than a political stance from a corrupted politician who will do anything for gain attention, we are shocked, he continued, and sad to learn of the abrupt departure of our boss, but he is an honorable men and will never act outside his engineering duties. 
+
+## Robinhood Investing App Secretly Makes Millions Selling Millennials' User Data To HFT Firms, Stealing from millennials to give to the rich. Robinhood App sells user customer data to make a quick buck from the high-frequency trading (HFT) firms on Wall Street. But is that legal, a class action suit claims that is not. 
+
+Robinhood Financial, LLC, a US-based mobile stock brokerage company, founded on the basis of disrupting the brokage industry by offering commission-free trading, has been secretly making millions of dollars in a profit scheme by selling users' data to HFT traders
+
+## Bittrex, is being accused of running a ponzi scheme. Is this another billion dollars fraud!
+The cryptocurrency exchange hired former US Homland Security Employees soon after the company got accused in 2017 of commiting fraud by locking and using investors money without any legal right. In 2018, the company continued to use investors money in violatation of United States Federal Laws, and a class action is in progress and soon to be entered in the New York Court system. Some of the claims prove Bittrex knew they were breaking the law and did little or nothing to correct the misappropriation of investors funds.
 
 
-# The International Rescue Committee (Rescue.org) who was accused of sourcing pharma from inside syria in 2015 and lost $300MM in funding from USAID, never fired the Senior Vice President who gave the order (we have the emails)
+## ## The International Rescue Committee (Rescue.org) got accused and confirmed of sourcing pharmaceutical from inside Syria in 2014-2015 in violation of United States Federal Laws. The breach which jeopardizes the health of those who are in most need, refugees in a war zone, paid the price. How will you like to be given anesthesia altered with water and in the middle of surgery you walk up? The international Rescue Committee lost $300MM, in funding from the federal fund USAID, but the people responsible for such a betrayal were never brought to justice (we have the emails)
 
-While the Senior Vice President who reports directly to David Milliband and Madeline, was never fired despite of the fraud commited. Many directors oversees got fired for this occurance but the people who force the actions never got repremended or expose. We are about to change that.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+While the Senior Vice President and Head of Supply Chain, who is part of the Leadership Team of the Foundation, reporting directly to David Miliband and Madeleine Sadler, was never fired, many directors oversees got fired for this occurrence and got blamed for following their boss orders and advice. 
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
