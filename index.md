@@ -2,23 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Bittrex, is being accused of running a ponzi scheme. 
+The cryptocurrency exchange has hired former US Homland Security Employees soon after the company got accused in 2017. In 2018 the company has continue to use investors money in violatation of United States Federal Laws and a class action is in progress and soon to be entered in the New York Court system. 
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# The International Rescue Committee (Rescue.org) who was accused of sourcing pharma from inside syria in 2015 and lost $300MM in funding from USAID, never fired the Senior Vice President who gave the order (we have the emails)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+While the Senior Vice President who reports directly to David Milliband and Madeline, was never fired despite of the fraud commited. Many directors oversees got fired for this occurance but the people who force the actions never got repremended or expose. We are about to change that.
 
 ### Header 3
 
