@@ -10,7 +10,7 @@ We have information, Cuomo lied to the press and public with his announcement ye
 
 Robinhood App sells user customer data to make a quick buck from the high-frequency trading (HFT) firms on Wall Street. But is that legal, a class action suit claims that is not. Robinhood Financial, LLC, a US-based mobile stock brokerage company, founded on the basis of disrupting the brokage industry by offering commission-free trading, has been secretly making millions of dollars in a profit scheme by selling users' data to HFT traders
 
-## Bittrex, is being accused of running a ponzi scheme. Is this another billion dollars fraud!
+## Bittrex, is being accused of running a ponzi scheme. Is this another billion dollars fraud!?
 
 The cryptocurrency exchange hired former US Homland Security Employees soon after the company got accused in 2017 of commiting fraud by locking and using investors money without any legal right. In 2018, the company continued to use investors money in violatation of United States Federal Laws, and a class action is in progress and soon to be entered in the New York Court system. Some of the claims prove Bittrex knew they were breaking the law and did little or nothing to correct the misappropriation of investors funds.
 
