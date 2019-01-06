@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# Is Amazon Interested in Cryptocurrency? 
-We have an information that Jeff Bezos, founder, chairman, president and CEO of Amazon, Inc., meet secretly with Ripple's CEO and CFO, to discuss the integration of Ripple's cryptocurrency XRP, to the gigants retailer's India and South America market. This will mean the true acceptance of cryptocurrency and can re-shape the financial markets. It would not be the first time that Bezos revolutionazes the world. (We have reach out to Bezos, and Ripple but neither company have responded) 
+# Is Amazon Interested on Cryptocurrency? 
+We have information than recently Jeff Bezos, founder, chairman, president and CEO of Amazon, Inc., meet secretly with Ripple's CEO and CFO, to discuss the integration of Ripple's cryptocurrency XRP, to the gigants retailer's India and South America. This will mean the true acceptance of cryptocurrency by everyone and can re-shape the financial markets. It would not be the first time Jeff Bezos changes the world. (We have reach out to Amazon, and Ripple, neither company have responded) 
 
 # The L train latest News, is nothing other than a political stance from Governor Andrew M. Cuomo, who is planning a presidential run or he wishes. 
 
