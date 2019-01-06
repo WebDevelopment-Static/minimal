@@ -14,10 +14,10 @@ Robinhood App sells user customer data to make a quick buck from the high-freque
 
 ## Bittrex, Accused of Running a Ponzi Scheme. Is this another billion dollars fraud!? Where is Finra and the SEC? 
 
-The cryptocurrency exchange hired former US Homland Security Employees soon after the company got accused in 2017 of commiting fraud by locking and using investors money without any legal right. In 2018, the company continued to use investors money in violatation of United States Federal Laws, and a class action is in progress and soon to be entered in the New York Court system. Some of the claims prove Bittrex knew they were breaking the law and did little or nothing to correct the misappropriation of investors funds.
+The cryptocurrency exchange, hired former US Homland Security Employees soon after the company got accused in 2017 of commiting fraud by locking and using investors funds without any legal right. In 2018, the company continued to use investors money in violatation of United States Federal Laws, and a class action is in progress and soon to be entered in the New York Court system. Some of the claims prove Bittrex knew they were breaking the law and did little or nothing to correct the misappropriation of investors funds but rather did lots to cover up their crimes. 
 
 
-## The International Rescue Committee (Rescue.org) was sourcing pharmaceutical from inside Syria and other countries in 2014-2015 in violation of United States Federal Laws. The breach was an intetional beytrail, which jeopardized and temper with pain and health of those refugees who were most needed at the time paid the price. 
+# The International Rescue Committee (Rescue.org) was sourcing pharmaceutical from inside Syria and other countries in 2014-2015 in violation of United States Federal Laws. The breach was an intetional beytrail, which jeopardized and temper with pain and health of those refugees who were most needed at the time paid the price. 
 
 ### How will you like to be given anesthesia altered with water? That happened to adults and childreen, thanks to the greed of people who got a pass and were never held responsible for their crimes.  The international Rescue Committee lost $300MM, in funding from the federal fund USAID, but the people responsible for such a betrayal were never brought to justice (we have the emails communications)
 
