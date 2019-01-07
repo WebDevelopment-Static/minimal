@@ -3,6 +3,7 @@ layout: default
 ---
 # Is Amazon Interested on Cryptocurrency? 
 Recently Jeff Bezos, founder, chairman, president and CEO of Amazon, Inc., meet secretly with Ripple's CEO and CFO, to discuss the integration of Ripple's cryptocurrency XRP, to the giant retailer's India and South America markets. This will mean the true acceptance of cryptocurrency by everyone and can re-shape the financial markets. It would not be the first time Jeff Bezos, changes the world. (We have reach out to Amazon, and Ripple, neither company have responded) 
+##### Update, if Amazon accepts the cryptocurrency, the company will be forced to invest about $1-2 Billion dollars in the XRP cryptocurrency, which will take the value from current $.35-36 cents to beyond a dollar depending how much current investors are willing to sell. Two forceen issues are, the wallet where the tokens will be held for costumers, and the security of the transaction. 
 
 # The L train latest News, is nothing other than a political stance from Governor Andrew M. Cuomo, who is planning a presidential run or he wishes. 
 
